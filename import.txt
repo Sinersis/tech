@@ -1,0 +1,12 @@
+[2025-04-01 16:38:41] local.DEBUG: Row 7738 failed validation: The name field format is invalid.
+[2025-04-01 16:39:03] local.DEBUG: Row 10024 failed validation: The date field must match the format d.m.Y.
+[2025-04-01 16:42:41] local.DEBUG: Row 23636 failed validation: The id field must be at least 1.
+[2025-04-01 16:46:52] local.DEBUG: Row 34119 failed validation: The name field format is invalid.
+[2025-04-01 16:46:52] local.DEBUG: Row 34127 failed validation: The name field format is invalid.
+[2025-04-01 16:48:35] local.DEBUG: Row 37756 failed validation: The id field must be an integer.
+[2025-04-01 16:49:16] local.DEBUG: Row 39109 failed validation: The date field must be a valid date., The date field must match the format d.m.Y.
+[2025-04-01 16:50:59] local.DEBUG: Row 42361 failed validation: The id has already been taken.
+[2025-04-01 16:53:07] local.DEBUG: Row 46083 failed validation: The name field format is invalid.
+[2025-04-01 16:53:10] local.DEBUG: Row 46161 failed validation: The date field must be a valid date., The date field must match the format d.m.Y.
+[2025-04-01 16:55:05] local.DEBUG: Row 49317 failed validation: The date field must be a valid date., The date field must match the format d.m.Y.
+[2025-04-01 17:08:12] local.DEBUG: Row 59985 failed validation: The date field must be a valid date., The date field must match the format d.m.Y.
